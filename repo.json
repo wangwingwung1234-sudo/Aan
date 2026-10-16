@@ -3,6 +3,6 @@
   "description": "Kumpulan plugin CloudStream favoritku",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+    "https://raw.githubusercontent.com/wangwingwung1234-sudo/Aan/main/plugins.json"
   ]
 }
