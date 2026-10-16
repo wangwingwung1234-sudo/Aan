@@ -78,6 +78,21 @@
   "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
   "apiVersion": 1,
   "fileHash": "sha256-5b773f860478ee8ba0fc0b5e704ee5ed81afdd9d3aa12cc6c7092afc8deb46c1"
+  },
+  {
+  "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD5KTf3taknWZ6YLFfkHAvDCoeC79LCjfh1T5VsBajkI0hFV4afH6WBwDeiHrGtkYKaRMX4pAWa_M2kG8LXefpk8g6Ug35PnJyXpiro5lPw8tcXMPA_6RFcRw3dYQkoZgXDdjiMdHde2k8ZfwTlazvlVerXAhdrLDNAeo5NysoU-CScOAcVmsosVl_cA/s1600/NewLogo.png",
+  "fileHash": "sha256-8364ead16d91c5c4453333448502ee5b61136e5a579009fc6cd11c0f5158d2b8",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/byimam2nd/oce",
+  "fileSize": 395743,
+  "status": 1,
+  "language": "id",
+  "authors": ["Imam2nd"],
+  "tvTypes": ["Anime", "AnimeMovie", "TvSeries"],
+  "version": 589,
+  "internalName": "ProviderAnichin",
+  "description": "Anichin - Streaming Anime China Subtitle Indonesia",
+  "url": "https://raw.githubusercontent.com/byimam2nd/oce/builds/ProviderAnichin.cs3",
+  "name": "ProviderAnichin"
   }
-  
 ]
