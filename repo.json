@@ -1,0 +1,8 @@
+{
+  "name": "Repo Aan",
+  "description": "Kumpulan plugin CloudStream favoritku",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+  ]
+}
