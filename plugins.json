@@ -62,5 +62,22 @@
     "description": "NetMirror Mobile API",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse Mobile.cs3",
     "name": "CNC Verse Mobile"
+  },
+  {
+  "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+  "status": 1,
+  "version": 37,
+  "name": "MovieBoxProvider",
+  "internalName": "MovieBoxProvider",
+  "authors": ["NivinCNC", "Phisher98"],
+  "description": "Multi Language Movies and Series Provider",
+  "fileSize": 157871,
+  "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+  "language": "hi",
+  "tvTypes": ["Movie", "TvSeries"],
+  "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
+  "apiVersion": 1,
+  "fileHash": "sha256-5b773f860478ee8ba0fc0b5e704ee5ed81afdd9d3aa12cc6c7092afc8deb46c1"
   }
+  
 ]
