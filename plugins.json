@@ -7,8 +7,17 @@
     "fileSize": 62085,
     "status": 1,
     "language": "id",
-    "authors": ["Hexated", "Phisher98", "Zivalez"],
-    "tvTypes": ["Movie", "TVSeries", "AsianDrama", "Anime"],
+    "authors": [
+      "Hexated",
+      "Phisher98",
+      "Zivalez"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TVSeries",
+      "AsianDrama",
+      "Anime"
+    ],
     "version": 16,
     "internalName": "Idlix",
     "description": "Nonton Film & Series Streaming Idlix Subtitle Indonesia",
@@ -23,8 +32,15 @@
     "fileSize": 27939,
     "status": 1,
     "language": "id",
-    "authors": ["Zivalez", "Asm0d3usX"],
-    "tvTypes": ["AnimeMovie", "OVA", "Anime"],
+    "authors": [
+      "Zivalez",
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "OVA",
+      "Anime"
+    ],
     "version": 11,
     "internalName": "Samehadaku",
     "description": "Nonton & Download Anime Streaming Sub Indo",
@@ -39,8 +55,13 @@
     "fileSize": 92713,
     "status": 1,
     "language": "ta",
-    "authors": ["NivinCNC"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 114,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
@@ -55,8 +76,13 @@
     "fileSize": 97001,
     "status": 1,
     "language": "ta",
-    "authors": ["NivinCNC"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 10,
     "internalName": "CNC Verse Mobile",
     "description": "NetMirror Mobile API",
@@ -64,35 +90,73 @@
     "name": "CNC Verse Mobile"
   },
   {
-  "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
-  "status": 1,
-  "version": 37,
-  "name": "MovieBoxProvider",
-  "internalName": "MovieBoxProvider",
-  "authors": ["NivinCNC", "Phisher98"],
-  "description": "Multi Language Movies and Series Provider",
-  "fileSize": 157871,
-  "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-  "language": "hi",
-  "tvTypes": ["Movie", "TvSeries"],
-  "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-5b773f860478ee8ba0fc0b5e704ee5ed81afdd9d3aa12cc6c7092afc8deb46c1"
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+    "status": 1,
+    "version": 37,
+    "name": "MovieBoxProvider",
+    "internalName": "MovieBoxProvider",
+    "authors": [
+      "NivinCNC",
+      "Phisher98"
+    ],
+    "description": "Multi Language Movies and Series Provider",
+    "fileSize": 157871,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-5b773f860478ee8ba0fc0b5e704ee5ed81afdd9d3aa12cc6c7092afc8deb46c1"
   },
- {
-  "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/OtakudesuProvider.cs3",
-  "status": 1,
-  "version": 8,
-  "name": "OtakudesuProvider",
-  "internalName": "OtakudesuProvider",
-  "authors": ["Miku"],
-  "description": "OtakuDesu — Streaming Anime Subtitle Indonesia",
-  "fileSize": 46598,
-  "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
-  "language": "id",
-  "tvTypes": ["AnimeMovie", "Anime", "OVA"],
-  "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
-  "apiVersion": 1,
-  "fileHash": "sha256-7af1f286703519f5ba9455e95203a6da8d1e935ebe73e2af644c0c915b13e775"
-}
+  {
+    "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/OtakudesuProvider.cs3",
+    "status": 1,
+    "version": 8,
+    "name": "OtakudesuProvider",
+    "internalName": "OtakudesuProvider",
+    "authors": [
+      "Miku"
+    ],
+    "description": "OtakuDesu — Streaming Anime Subtitle Indonesia",
+    "fileSize": 46598,
+    "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
+    "language": "id",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
+    "apiVersion": 1,
+    "fileHash": "sha256-7af1f286703519f5ba9455e95203a6da8d1e935ebe73e2af644c0c915b13e775"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+    "status": 1,
+    "version": 692,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": [
+      "Phisher98",
+      "Hexated"
+    ],
+    "description": "#1 best extention based on MultiAPI",
+    "fileSize": 2060349,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+    "apiVersion": 1,
+    "fileHash": "sha256-b09e5fa2ef8ac2cf6d93a4015e695d787a71f91765bf8176720e542bb645307b"
+  }
 ]
